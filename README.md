@@ -4,7 +4,7 @@ This project uses deep learning techniques to classify different types of rice s
 
 
 📁 Project Structure
-data/ – Training and testing image datasets
+data/ – Training and testing image datasets 
 models/ – Pretrained and fine-tuned ResNet50 and VGG models
 notebooks/ – Jupyter notebooks for experimentation and EDA
 streamlit_app.py – Streamlit web interface for prediction
